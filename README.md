@@ -1,4 +1,4 @@
 # Jayant
-<h1>This is my first github repository</h1>
+This is my first github repository
 <br>
-<h2>Jayant is the author who will be taking a cosulting Job</h2>
+Jayant is the author who will be taking a cosulting Job
